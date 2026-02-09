@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ironi",
+  "base_artist": "yanaginagi",
+  "createdAt": "2026-02-09T12:42:46.435351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dokhtar Ironi",
+      "artist": "Andy",
+      "has_synced": true,
+      "path": "select/01_Dokhtar_Ironi_Andy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Det Kaldes Ironi",
+      "artist": "Svedbanken",
+      "has_synced": true,
+      "path": "select/02_Det_Kaldes_Ironi_Svedbanken.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ironi",
+      "artist": "yanaginagi",
+      "has_synced": false,
+      "path": "select/03_ironi_yanaginagi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ironi",
+      "artist": "Kelompok Penerbang Roket",
+      "has_synced": false,
+      "path": "select/04_Ironi_Kelompok_Penerbang_Roket.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ironi",
+      "artist": "Elyana",
+      "has_synced": true,
+      "path": "select/05_Ironi_Elyana.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ironi Semiotika Warna ( Ost. Mata Elang )",
+      "artist": "The Cat Police",
+      "has_synced": true,
+      "path": "select/06_Ironi_Semiotika_Warna_(_Ost._Mata_Elang_)_The_Cat_Police.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ironi Negeri Surga",
+      "artist": "Tony Q Rastafara",
+      "has_synced": true,
+      "path": "select/07_Ironi_Negeri_Surga_Tony_Q_Rastafara.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ironi",
+      "artist": "Navid Modiri & Gudarna",
+      "has_synced": false,
+      "path": "select/08_Ironi_Navid_Modiri_&_Gudarna.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Natsu no Ironi",
+      "artist": "Sakakibara Yui",
+      "has_synced": true,
+      "path": "select/09_Natsu_no_Ironi_Sakakibara_Yui.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ironi",
+      "artist": "Kelompok Penerbang Roket",
+      "has_synced": true,
+      "path": "select/10_Ironi_Kelompok_Penerbang_Roket.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ironi",
+      "artist": "Aimless",
+      "has_synced": false,
+      "path": "select/11_Ironi_Aimless.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ironi",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/12_ironi_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ironi Lantai Dansa",
+      "artist": "Monkey Boots",
+      "has_synced": false,
+      "path": "select/13_Ironi_Lantai_Dansa_Monkey_Boots.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ironi",
+      "artist": "Yovie & Nuno",
+      "has_synced": true,
+      "path": "select/14_Ironi_Yovie_&_Nuno.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "IRONI",
+      "artist": "Boris",
+      "has_synced": false,
+      "path": "select/15_IRONI_Boris.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ironi",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_ironi_やなぎなぎ.txt"
+    }
+  ]
+}
